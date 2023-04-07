@@ -149,7 +149,7 @@ fontLoader.load('/fonts/helvetiker_regular.typeface.json', font => {
 
   const safeAreaForSpawn = 3.15
 
-  for (let i = 0; i < 1000; i++) {
+  for (let i = 0; i < 300; i++) {
     const geometry = getRandomGeometryMesh()
 
     geometry.position.x = (Math.random() - 0.5) * 12
