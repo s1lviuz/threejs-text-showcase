@@ -1,5 +1,7 @@
 # Three.js Journey
 
+https://user-images.githubusercontent.com/54729104/230675947-18760d7a-286d-4e1a-aebb-6f223452c0c3.mp4
+
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
 Run this followed commands:
